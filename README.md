@@ -1,4 +1,4 @@
-[titles.csv](https://github.com/user-attachments/files/15923285/titles.csv)[credits.csv](https://github.com/user-attachments/files/15923282/credits.csv)# 🎬 Netflix Movies and TV Shows Dashboard 🎥
+# 🎬 Netflix Movies and TV Shows Dashboard 🎥
 
 ## Data preparation, analysis, and visualization of Netflix shows and movies with ratings
 ------
@@ -37,14 +37,11 @@ Tableau
 
 
 #### Original Excel files
-[Uploading credits.csv…]()
-[Uploading titles.csv…]()
 
-#### Python code[Uploading Netflix Data Analysis 2.sql…]()
-
+#### Python code
 
 #### SQL code
-[Uploading Netflix Data Analysis.sql…]()
+
 
 #### Tableau visualization
 [Link:]([https://www.google.com "Google's Homepage](https://public.tableau.com/views/NetflixDashboard_17189470177160/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
