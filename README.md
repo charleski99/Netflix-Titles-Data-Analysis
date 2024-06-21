@@ -1,7 +1,7 @@
 # 🎬 Netflix Movies and TV Shows Dashboard 🎥
 
 ## Data preparation, analysis, and visualization of Netflix shows and movies with ratings
-------
+
 
 This project encompasses the preparation, analysis, and visualization processes of understanding data. 
 
@@ -33,14 +33,6 @@ Tableau
 ------ 
 
 **Insights**
-
-
-
-#### Original Excel files
-
-#### Python code
-
-#### SQL code
 
 
 #### Tableau visualization
