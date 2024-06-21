@@ -1,13 +1,13 @@
-🎬 Netflix Movies and TV Shows Dashboard 🎥
+[titles.csv](https://github.com/user-attachments/files/15923285/titles.csv)[credits.csv](https://github.com/user-attachments/files/15923282/credits.csv)# 🎬 Netflix Movies and TV Shows Dashboard 🎥
 
-Data preparation, analysis, and visualization of Netflix shows and movies with ratings
+## Data preparation, analysis, and visualization of Netflix shows and movies with ratings
 ------
 
 This project encompasses the preparation, analysis, and visualization processes of understanding data. 
 
 The dataset, pulled from Kaggle, displays information regarding Netflix shows and movies as well as their ratings/reviews on IMDb and TMDB. The source provides two datasets, titles and credits, which will be utilized in this exploratory analysis. 
 
-Here are the steps I took with the datasets. 
+### Here are the steps I took with the datasets. 
 Excel
 ---
 1. Pull data and open in Excel
@@ -34,4 +34,19 @@ Tableau
 
 **Insights**
 
-![image](https://github.com/charleski99/Netflix-Shows-and-Movies/assets/161391284/0c84f22a-5e90-414b-a7a7-2de5d07e8769)
+
+
+#### Original Excel files
+[Uploading credits.csv…]()
+[Uploading titles.csv…]()
+
+#### Python code[Uploading Netflix Data Analysis 2.sql…]()
+
+
+#### SQL code
+[Uploading Netflix Data Analysis.sql…]()
+
+#### Tableau visualization
+[Link:]([https://www.google.com "Google's Homepage](https://public.tableau.com/views/NetflixDashboard_17189470177160/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+![image](https://github.com/charleski99/Netflix-Shows-and-Movies/assets/161391284/0c84f22a-5e90-414b-a7a7-2de5d07e8769)")
+
