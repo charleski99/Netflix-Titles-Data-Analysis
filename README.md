@@ -1,4 +1,4 @@
-# Netflix-Shows-and-Movies
+🎬 Netflix Movies and TV Shows Dashboard 🎥
 Data preparation, analysis, and visualization of Netflix shows and movies with ratings
 ------
 
@@ -16,4 +16,21 @@ Python
 ---
 1. Use pandas to get an overview of the datasets.
 2. Remove null and duplicated titles from the file
-3. 
+3. Save and export to CSV file
+
+SQL
+---
+1. Create tables with appropriate data types and insert data from CSV
+2. Exploratory data analysis
+3. Export standout findings to Excel tables
+
+Tableau
+---
+1. Import Excel tables and apply to appropriate charts
+2. Create visualization dashboard
+
+------ 
+
+**Insights**
+
+![image](https://github.com/charleski99/Netflix-Shows-and-Movies/assets/161391284/0c84f22a-5e90-414b-a7a7-2de5d07e8769)
